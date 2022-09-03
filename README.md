@@ -2,8 +2,7 @@
 # CSV parsing
 
 The goal is to create an application that allows uploading and getting a csv file.
-The sample csv file can be found here: 
-https://drive.google.com/open?id=1ZAVoOrYWMwrXve8D7ySuLCTs7WIQH7xK
+The sample csv file can be found in resource folder
 
 Note: The field code is unique
 ## API Reference
